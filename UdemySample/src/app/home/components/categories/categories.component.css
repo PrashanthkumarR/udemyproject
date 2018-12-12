@@ -1,0 +1,100 @@
+   
+.c_header__search-wrapper{
+    margin-left: 150px;
+    margin-bottom: 33px;
+}
+
+
+
+.es-autocomplete--primary .input-group {
+    background-color: #f2f3f5;
+    border-radius: 2px;
+    margin-right: 205px;
+}
+.input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    margin-bottom: -6px;
+}
+
+.input-group .form-control:first-child {
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+.es-autocomplete--primary .form-control {
+    background-color: transparent;
+    border-color: transparent;
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+    font-size: 13px;
+}
+.es-autocomplete .form-control {
+    -webkit-appearance: none;
+}
+.input-group-addon, .input-group-btn, .input-group .form-control {
+    display: table-cell;
+}
+.input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: -12px;
+}
+.form-control {
+    box-shadow: none;
+    font-size: 16px;
+    padding: 10px 12px;
+    transition: border-color .08s ease-in-out,box-shadow .08s ease-in-out;
+}
+.form-control {
+    width: 100%;
+    height: 20px;
+    padding: 11px 12px;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #cacbcc;
+    border-radius: 2px;
+    
+}
+.form-control, output {
+    display: block;
+    font-size: 15px;
+    line-height: 1.43;
+    color: #29303b;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+input {
+    line-height: normal;
+}
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+.fa{
+    color:red;
+    margin-right: -35px;
+    margin-bottom: 10px;
+}
+.btn-link[type=submit] {
+    border-bottom-right-radius: 2px;
+    border-top-right-radius: 2px;
+    margin-right: -4px;
+    color: #ec5252;
+}
+.es-autocomplete .btn[type=submit] {
+    width: 44px;
+    height: 44px;
+}
+
